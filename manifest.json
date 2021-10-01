@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Chnages how Minecraft UI looks, resembling a similar look to the §aMinecraft launcher!§r",
+        "name": "Mystic UI",
+        "uuid": "497641b8-bfe9-46c9-bc02-95ae31d5b9e0",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "Made By Creep",
+            "type": "resources",
+            "uuid": "ab21bf08-583a-46ab-87e2-6e15c44bf468",
+            "version": [0, 0, 1]
+        }
+    ]
+}
